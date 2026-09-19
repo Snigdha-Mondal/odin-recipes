@@ -1,4 +1,4 @@
-#ODIN RECIPES
+# ODIN RECIPES
 
 Completed the first project of The Odin Project: Recipes
 
